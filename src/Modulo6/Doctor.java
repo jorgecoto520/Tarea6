@@ -14,7 +14,8 @@ public class Doctor extends Personas{
     public Doctor(String nombre, String apellido, int edad, String profesion, String Direccion, String pais) {
         super(nombre, apellido, edad, profesion, Direccion, pais);
     }
-    
+
+
     public void Doctor(){
         
         setNombre("Juan Rodriguez");

@@ -14,6 +14,8 @@ public class Deportista extends Personas {
     public Deportista(String nombre, String apellido, int edad, String profesion, String Direccion, String pais) {
         super(nombre, apellido, edad, profesion, Direccion, pais);
     }
+
+ 
     
     
     public void Deportista(){
