@@ -75,6 +75,19 @@ public class Personas {
         this.pais = pais;
     }
     
+    public void doctor(){
+    
+    
+        System.out.println("Nombre       :  " + nombre);
+        System.out.println("Apellido     :  " + apellido);
+        System.out.println("Edad         :  " + edad);
+        System.out.println("Profesion    :  " +  profesion);
+        System.out.println("Direccion    :  " +  Direccion);
+        System.out.println("Pais         :  " +  pais);
+    
+    
+    }
+    
     
     
     
